@@ -1,5 +1,5 @@
 # Architecture
-
+![Image](architecture.png)
 The diagram captures the simplified deployment of a single kernel module talking to a command-line tool over a custom netlink channel. Everything revolves around enforcing an IPv4 blocklist while providing observability through proc/sysfs.
 
 ## Kernel space (ring 0)
