@@ -7,3 +7,4 @@ kernel/.tmp_versions/
 userspace/bin/
 .vscode/
 *.swp
+.codex
