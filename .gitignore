@@ -1,0 +1,9 @@
+bin/
+kernel/*.o
+kernel/*.ko
+kernel/*.mod.c
+kernel/*.symvers
+kernel/.tmp_versions/
+userspace/bin/
+.vscode/
+*.swp
